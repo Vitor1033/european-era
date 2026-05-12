@@ -1,0 +1,200 @@
+{
+  "language": {
+    "switch": "Change language",
+    "current": "Language"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "opportunities": "Opportunities",
+    "services": "Services",
+    "partners": "Partners",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "apply": "Apply",
+    "openMenu": "Open menu",
+    "menuTitle": "Menu"
+  },
+  "metadata": {
+    "home": {
+      "title": "European Era — International internships & mobility",
+      "description": "Build your international future through vetted European internships, Erasmus+ pathways, and partner programs."
+    },
+    "about": {
+      "title": "About European Era",
+      "description": "We connect students and young professionals with transparent mobility journeys across Europe."
+    },
+    "opportunities": {
+      "title": "Opportunities",
+      "description": "Explore internships, traineeships, and mobility programs curated for international growth."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Guidance, matching, and partner support for institutions and talent."
+    },
+    "partners": {
+      "title": "Partners",
+      "description": "Universities, NGOs, and employers growing European mobility with us."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Practical insights on applications, mobility, and cross-border careers."
+    },
+    "faq": {
+      "title": "FAQ",
+      "description": "Answers about applications, eligibility, and how European Era works."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Talk with our team about opportunities, partnerships, or support."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "How European Era handles personal data."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "description": "Terms for using the European Era platform."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "International mobility, simplified",
+      "title": "Build your international future through real European opportunities.",
+      "subtitle": "European Era helps students and young professionals move with clarity—from vetted listings to human support across borders.",
+      "primaryCta": "Explore opportunities",
+      "secondaryCta": "Partner with us",
+      "trust1": "GDPR-minded workflows",
+      "trust2": "EU-focused network",
+      "trust3": "Human guidance"
+    },
+    "partners": {
+      "label": "Trusted by teams shaping mobility"
+    },
+    "stats": {
+      "label": "Impact that compounds",
+      "stat1": { "value": "48+", "label": "Cities with active hosts" },
+      "stat2": { "value": "120+", "label": "Vetted opportunities / year" },
+      "stat3": { "value": "92%", "label": "Candidates feel more prepared" }
+    },
+    "how": {
+      "label": "How it works",
+      "title": "A calm path from curiosity to contract",
+      "step1": { "title": "Create your profile", "body": "Share your field, languages, and timeline—we match with intent, not noise." },
+      "step2": { "title": "Discover curated roles", "body": "Internships, traineeships, and mobility tracks with transparent requirements." },
+      "step3": { "title": "Apply with support", "body": "Checklists, templates, and advisors so paperwork never blocks momentum." },
+      "step4": { "title": "Arrive ready", "body": "Onboarding resources and partner introductions for your first weeks abroad." }
+    },
+    "featured": {
+      "title": "Featured opportunities",
+      "subtitle": "A live snapshot of roles and mobility tracks hosts publish with us."
+    },
+    "categories": {
+      "label": "Opportunity categories",
+      "title": "Choose your lane—then go deep",
+      "c1": { "title": "Internships", "body": "Startup and corporate placements with structured learning goals." },
+      "c2": { "title": "Erasmus+ & mobility", "body": "Semester exchanges, traineeships, and blended mobility." },
+      "c3": { "title": "Research & NGOs", "body": "Mission-driven hosts that value multilingual teams." },
+      "c4": { "title": "Graduate pathways", "body": "Programs designed for early-career transitions across the EU." }
+    },
+    "why": {
+      "label": "Why European Era",
+      "title": "Premium experience, grounded in trust",
+      "b1": { "title": "Clarity first", "body": "No vague listings—every opportunity has context, timelines, and expectations." },
+      "b2": { "title": "International by design", "body": "Built for multilingual cohorts moving between cities and institutions." },
+      "b3": { "title": "Partners, not gatekeepers", "body": "We grow with universities and employers who invest in early talent." },
+      "b4": { "title": "Built to scale", "body": "Structured content and APIs ready for your future CMS and SSO integrations." }
+    },
+    "testimonials": {
+      "eyebrow": "Testimonials",
+      "title": "Voices from the community"
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Quick answers",
+      "cta": "View all questions"
+    },
+    "cta": {
+      "title": "Ready to move with confidence?",
+      "subtitle": "Start exploring opportunities or bring your institution into the network.",
+      "primary": "Browse opportunities",
+      "secondary": "Become a partner"
+    }
+  },
+  "about": {
+    "title": "We exist to make mobility feel inevitable—not intimidating.",
+    "p1": "European Era is an international platform for internships, Erasmus-style mobility, and employer partnerships. We combine modern product craft with the rigor educators expect.",
+    "p2": "Our team spans Lisbon, Berlin, and remote hubs across Europe. We obsess over clear language, fast pages, and accessibility because trust is designed—not declared.",
+    "p3": "Whether you are a student planning your first crossing or a partner scaling placements, we build tools that respect your time."
+  },
+  "opportunitiesPage": {
+    "title": "Opportunities designed for real momentum",
+    "subtitle": "Fresh listings are added weekly. Save your profile to get matched early.",
+    "badge": "Live board"
+  },
+  "servicesPage": {
+    "title": "Services for talent and institutions",
+    "subtitle": "From sourcing to onboarding, we help teams launch mobility programs without friction.",
+    "s1": { "title": "Talent matching", "body": "Structured profiles, language tags, and smart filters for hosts." },
+    "s2": { "title": "Program design", "body": "Templates for learning agreements, evaluations, and risk checks." },
+    "s3": { "title": "Partner success", "body": "Dedicated onboarding for universities, NGOs, and growing companies." },
+    "s4": { "title": "Analytics-ready", "body": "Export-friendly data for reporting and accreditation cycles." }
+  },
+  "partnersPage": {
+    "title": "Grow mobility with a modern partner stack",
+    "subtitle": "Co-create pathways, publish vetted roles, and give students a premium experience.",
+    "cta": "Talk partnerships"
+  },
+  "blogPage": {
+    "title": "Notes on crossing borders well",
+    "subtitle": "Short, practical essays—no fluff, no jargon walls."
+  },
+  "faqPage": {
+    "title": "Frequently asked questions",
+    "subtitle": "Still unsure? Our team replies within two business days."
+  },
+  "contactPage": {
+    "title": "Let’s build your next chapter",
+    "subtitle": "Share a few details—we’ll route you to the right person.",
+    "sideTitle": "Prefer email?",
+    "sideBody": "hello@european-era.com · Partnerships & support"
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "updated": "Last updated: May 2026",
+    "p1": "European Era processes personal data to operate the platform, match users with opportunities, and comply with applicable EU regulations including GDPR.",
+    "p2": "You may request access, correction, or deletion of your data by contacting us. We minimize retention and use subprocessors with appropriate safeguards.",
+    "p3": "This summary is not legal advice. A full policy should be reviewed with counsel before production launch."
+  },
+  "termsPage": {
+    "title": "Terms of Service",
+    "updated": "Last updated: May 2026",
+    "p1": "By using European Era you agree to provide accurate information and to use the platform responsibly. Host organizations may impose additional requirements.",
+    "p2": "We may update these terms as the product evolves. Continued use constitutes acceptance of changes.",
+    "p3": "Replace this placeholder with counsel-approved terms before going live."
+  },
+  "footer": {
+    "tagline": "International internships & mobility, crafted in Europe.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "rights": "All rights reserved."
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send message",
+    "sending": "Sending…",
+    "success": "Thanks—we received your message.",
+    "error": "Something went wrong. Try again shortly.",
+    "validation": "Please check the highlighted fields."
+  },
+  "common": {
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "viewAll": "View all"
+  }
+}

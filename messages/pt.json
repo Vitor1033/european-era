@@ -1,0 +1,200 @@
+{
+  "language": {
+    "switch": "Alterar idioma",
+    "current": "Idioma"
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "opportunities": "Oportunidades",
+    "services": "Serviços",
+    "partners": "Parceiros",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "apply": "Candidatar",
+    "openMenu": "Abrir menu",
+    "menuTitle": "Menu"
+  },
+  "metadata": {
+    "home": {
+      "title": "European Era — Estágios e mobilidade internacional",
+      "description": "Constrói o teu futuro internacional com estágios europeus validados, percursos Erasmus+ e programas de parceiros."
+    },
+    "about": {
+      "title": "Sobre a European Era",
+      "description": "Ligamos estudantes e jovens profissionais a percursos de mobilidade transparentes na Europa."
+    },
+    "opportunities": {
+      "title": "Oportunidades",
+      "description": "Explora estágios, traineeships e programas de mobilidade pensados para o crescimento internacional."
+    },
+    "services": {
+      "title": "Serviços",
+      "description": "Orientação, matching e apoio a parceiros para instituições e talento."
+    },
+    "partners": {
+      "title": "Parceiros",
+      "description": "Universidades, ONG e empregadores que expandem a mobilidade europeia connosco."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Ideias práticas sobre candidaturas, mobilidade e carreiras além-fronteiras."
+    },
+    "faq": {
+      "title": "FAQ",
+      "description": "Respostas sobre elegibilidade, candidaturas e como funciona a European Era."
+    },
+    "contact": {
+      "title": "Contacto",
+      "description": "Fala com a nossa equipa sobre oportunidades, parcerias ou apoio."
+    },
+    "privacy": {
+      "title": "Política de privacidade",
+      "description": "Como a European Era trata os dados pessoais."
+    },
+    "terms": {
+      "title": "Termos de utilização",
+      "description": "Termos para usar a plataforma European Era."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Mobilidade internacional, simplificada",
+      "title": "Constrói o teu futuro internacional com oportunidades europeias reais.",
+      "subtitle": "A European Era ajuda estudantes e jovens profissionais a avançar com clareza—de listagens validadas a apoio humano além-fronteiras.",
+      "primaryCta": "Explorar oportunidades",
+      "secondaryCta": "Ser parceiro",
+      "trust1": "Fluxos mindful do RGPD",
+      "trust2": "Rede focada na UE",
+      "trust3": "Orientação humana"
+    },
+    "partners": {
+      "label": "Com a confiança de equipas que moldam a mobilidade"
+    },
+    "stats": {
+      "label": "Impacto que se acumula",
+      "stat1": { "value": "48+", "label": "Cidades com anfitriões ativos" },
+      "stat2": { "value": "120+", "label": "Oportunidades validadas / ano" },
+      "stat3": { "value": "92%", "label": "Candidatos mais preparados" }
+    },
+    "how": {
+      "label": "Como funciona",
+      "title": "Um percurso calmo da curiosidade ao contrato",
+      "step1": { "title": "Cria o teu perfil", "body": "Partilha área, línguas e prazos—fazemos match com intenção, não ruído." },
+      "step2": { "title": "Descobre funções curadas", "body": "Estágios, traineeships e mobilidade com requisitos transparentes." },
+      "step3": { "title": "Candidata-te com apoio", "body": "Checklists, modelos e orientação para a papelada não travar o ritmo." },
+      "step4": { "title": "Chega preparado/a", "body": "Recursos de integração e introduções a parceiros para as primeiras semanas." }
+    },
+    "featured": {
+      "title": "Oportunidades em destaque",
+      "subtitle": "Um instantâneo de funções e percursos de mobilidade que os anfitriões publicam connosco."
+    },
+    "categories": {
+      "label": "Categorias de oportunidades",
+      "title": "Escolhe a tua via—e aprofunda",
+      "c1": { "title": "Estágios", "body": "Colocações em startups e empresas com objetivos de aprendizagem claros." },
+      "c2": { "title": "Erasmus+ e mobilidade", "body": "Intercâmbios, traineeships e mobilidade mista." },
+      "c3": { "title": "Investigação e ONG", "body": "Anfitriões com missão que valorizam equipas multilingues." },
+      "c4": { "title": "Percursos pós-licenciatura", "body": "Programas para transições de início de carreira na UE." }
+    },
+    "why": {
+      "label": "Porquê a European Era",
+      "title": "Experiência premium, assente na confiança",
+      "b1": { "title": "Clareza em primeiro", "body": "Sem listagens vagas—cada oportunidade tem contexto, prazos e expectativas." },
+      "b2": { "title": "Internacional por desenho", "body": "Feita para coortes multilingues entre cidades e instituições." },
+      "b3": { "title": "Parceiros, não gatekeepers", "body": "Crescemos com universidades e empregadores que investem em talento jovem." },
+      "b4": { "title": "Pronta para escalar", "body": "Conteúdo estruturado e APIs preparadas para CMS e SSO futuros." }
+    },
+    "testimonials": {
+      "eyebrow": "Testemunhos",
+      "title": "Vozes da comunidade"
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Respostas rápidas",
+      "cta": "Ver todas as perguntas"
+    },
+    "cta": {
+      "title": "Pronto/a para avançar com confiança?",
+      "subtitle": "Explora oportunidades ou traz a tua instituição para a rede.",
+      "primary": "Ver oportunidades",
+      "secondary": "Tornar-me parceiro"
+    }
+  },
+  "about": {
+    "title": "Existimos para tornar a mobilidade inevitável—não assustadora.",
+    "p1": "A European Era é uma plataforma internacional para estágios, mobilidade ao estilo Erasmus e parcerias com empregadores. Unimos craft de produto moderno ao rigor que educadores esperam.",
+    "p2": "A nossa equipa liga Lisboa, Berlim e hubs remotos na Europa. Obcecionamos por linguagem clara, páginas rápidas e acessibilidade—porque a confiança desenha-se, não se declara.",
+    "p3": "Se estás a planear a primeira travessia ou és parceiro a escalar colocações, construímos ferramentas que respeitam o teu tempo."
+  },
+  "opportunitiesPage": {
+    "title": "Oportunidades com momentum real",
+    "subtitle": "Novas listagens todas as semanas. Guarda o perfil para seres matched mais cedo.",
+    "badge": "Quadro atual"
+  },
+  "servicesPage": {
+    "title": "Serviços para talento e instituições",
+    "subtitle": "Do sourcing ao onboarding, ajudamos a lançar programas de mobilidade sem fricção.",
+    "s1": { "title": "Matching de talento", "body": "Perfis estruturados, línguas e filtros inteligentes para anfitriões." },
+    "s2": { "title": "Desenho de programas", "body": "Modelos para contratos de aprendizagem, avaliações e checagens de risco." },
+    "s3": { "title": "Sucesso de parceiros", "body": "Onboarding dedicado para universidades, ONG e empresas em crescimento." },
+    "s4": { "title": "Pronto para analytics", "body": "Dados exportáveis para relatórios e ciclos de acreditação." }
+  },
+  "partnersPage": {
+    "title": "Cresce a mobilidade com um stack de parceiro moderno",
+    "subtitle": "Co-cria percursos, publica funções validadas e oferece uma experiência premium.",
+    "cta": "Falar sobre parcerias"
+  },
+  "blogPage": {
+    "title": "Notas para atravessar fronteiras bem",
+    "subtitle": "Textos curtos e práticos—sem floreados nem jargão."
+  },
+  "faqPage": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Ainda com dúvidas? Respondemos em dois dias úteis."
+  },
+  "contactPage": {
+    "title": "Vamos construir o teu próximo capítulo",
+    "subtitle": "Partilha alguns detalhes—encaminhamos para a pessoa certa.",
+    "sideTitle": "Preferes email?",
+    "sideBody": "hello@european-era.com · Parcerias e apoio"
+  },
+  "privacyPage": {
+    "title": "Política de privacidade",
+    "updated": "Última atualização: maio de 2026",
+    "p1": "A European Era trata dados pessoais para operar a plataforma, fazer matching com oportunidades e cumprir a legislação da UE, incluindo o RGPD.",
+    "p2": "Podes pedir acesso, retificação ou eliminação contactando-nos. Minimizamos retenção e usamos subempreiteiros com salvaguardas adequadas.",
+    "p3": "Este resumo não é aconselhamento jurídico. Uma política completa deve ser revista com advogados antes do lançamento."
+  },
+  "termsPage": {
+    "title": "Termos de utilização",
+    "updated": "Última atualização: maio de 2026",
+    "p1": "Ao usar a European Era comprometes-te a fornecer informação correta e a usar a plataforma com responsabilidade. Os anfitriões podem impor requisitos adicionais.",
+    "p2": "Podemos atualizar estes termos à medida que o produto evolui. O uso continuado implica aceitação das alterações.",
+    "p3": "Substitui este placeholder por termos aprovados por advogados antes de produção."
+  },
+  "footer": {
+    "tagline": "Estágios e mobilidade internacional, desenhados na Europa.",
+    "product": "Produto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "rights": "Todos os direitos reservados."
+  },
+  "form": {
+    "name": "Nome",
+    "email": "Email",
+    "subject": "Assunto",
+    "message": "Mensagem",
+    "submit": "Enviar mensagem",
+    "sending": "A enviar…",
+    "success": "Obrigado—recebemos a tua mensagem.",
+    "error": "Algo correu mal. Tenta novamente em breve.",
+    "validation": "Verifica os campos assinalados."
+  },
+  "common": {
+    "readMore": "Ler mais",
+    "learnMore": "Saber mais",
+    "viewAll": "Ver tudo"
+  }
+}
